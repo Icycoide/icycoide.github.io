@@ -18,3 +18,4 @@
 13. admins have the final say so listen to them or else i'll shank you. (SLX)
 14. leaking personal information or content of members that is private is prohibited and will lead to (SL6), (SL8) and (SL11)
 15. encouraging others in breaking the rules will result in normal ascending punishment on repeating offenses (SL1) (SL2) (SL3) ...
+16. do **NOT** discuss politics in a channel that is NOT meant for politics. For users of the Matrix channels, do NOT discuss politics **at all**. This rule has been temporarily set in place along with the creation of the politics channel, to lower the tensions of the discussions being held in the #general and #not-english channels on Discord.
